@@ -100,4 +100,4 @@ After building, run Mesosim with your input file:
 - docs/Commands.md — Input file format and command details
 
 ## License
-[BSD 3-Clause](https://choosealicense.com/licenses/bsd-3-clause/)
+[BSD 3-Clause](LICENSE)
